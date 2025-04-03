@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url("Images/pexels-felixmittermeier-957061.jpg");
+    color: antiquewhite;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 1.7rem;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+img {
+    max-width: 15%;
+}
+
+.choices {
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
